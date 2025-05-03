@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/azbuilder-mcp-server-terrakube-badge.png)](https://mseep.ai/app/azbuilder-mcp-server-terrakube)
+
 # Terrakube MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@AzBuilder/mcp-server-terrakube)](https://smithery.ai/server/@AzBuilder/mcp-server-terrakube)
